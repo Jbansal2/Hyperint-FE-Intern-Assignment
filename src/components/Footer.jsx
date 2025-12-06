@@ -101,7 +101,7 @@ function Footer() {
                         © DMD Clothing — Made consciously in India.
                     </div>
 
-                    <div className="flex items-center gap-3">
+                    <div className="flex items-center gap-1">
                          <div className="px-3 py-2 bg-[#111111] rounded-lg text-sm border border-gray-700 flex justify-between gap-2">
                             <FaQrcode size={20}/>
                             <span>UPI</span>

@@ -1,5 +1,4 @@
 import React from 'react'
-import AnnouncementBar from '../components/AnnouncementBar'
 import Navbar from '../components/Navbar'
 import ProductDetails from '../components/Product'
 import Review from '../components/Review'
@@ -9,7 +8,6 @@ import Footer from '../components/Footer'
 const Product = () => {
   return (
     <div>
-      <AnnouncementBar />
       <Navbar />
       <ProductDetails />
       <Review />
